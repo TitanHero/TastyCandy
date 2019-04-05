@@ -2,7 +2,7 @@
 
 ## A very cool Dark theme for VSC(Visual Studio Code)
 
-!(/screenshots/shots.gif)[Very cool don't?]
+[Very cool don't?](/screenshots/shots.gif)
 
 
 **ok this theme, I could not upload it as it should upload a theme because I could not pack it, you know, those npm shits and the creator of the tool to pack, and I'm very lazy (I have a lot to do) so repair this problem, is not an option for me, but I upload the * Work Space * according to that it's already a theme, that's what VSC (Visual Studio Code) tells me, so this is easy, to configure it.**
